@@ -74,11 +74,6 @@ Next steps include:
 - Expanding data integration with additional sources (e.g., remote sensing data).
 - Refining our preprocessing pipeline and further analysis.
 
-## Resources
-
-- [GitHub Repository](https://github.com/shrijacked/mlpr-project.git)
-- [Project Presentation](https://www.canva.com/design/DAGhKdT3EY0/2l8et6y9x9T-3-5SA6E70A/edit)
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
