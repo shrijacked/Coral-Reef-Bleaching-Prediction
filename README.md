@@ -55,7 +55,7 @@ mlpr-project/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mlpr-project.git
+git clone https://github.com/shrijacked/Reefcast.git
 cd mlpr-project
 ````
 
