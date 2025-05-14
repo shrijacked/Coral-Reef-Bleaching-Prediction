@@ -56,7 +56,6 @@ mlpr-project/
 
 ```bash
 git clone https://github.com/shrijacked/Reefcast.git
-cd mlpr-project
 ````
 
 ### 2. Create and Activate a Virtual Environment (Recommended)
