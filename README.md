@@ -3,6 +3,8 @@
 
 This project aims to analyze and predict coral reef bleaching events using various machine learning models, including **LSTM** (deep learning), **Random Forest**, **XGBoost**, and **LightGBM**. The workflow includes **data preprocessing**, **exploratory data analysis (EDA)**, and **model training/evaluation**.
 
+![Project Architecture](https://ai3011.plaksha.edu.in/Spring%202025/Images/Rishit%20Anand.png)
+
 ---
 
 ## 📁 Project Structure
@@ -102,31 +104,8 @@ Train and evaluate models using:
 
 ---
 
-## 📦 Requirements
-
-See `requirements.txt` for the full list of dependencies. Main libraries include:
-
-* `pandas`
-* `numpy`
-* `scikit-learn`
-* `xgboost`
-* `lightgbm`
-* `matplotlib`
-* `seaborn`
-* `tensorflow`
-* `scipy`
-* `statsmodels`
-* `jupyter`
-
----
-
 ## 📄 License
 
 This project is licensed under the terms of the [LICENSE](./LICENSE) file.
 
 ---
-
-```
-
-Let me know if you'd like to add dataset details, results visualizations, or citations for your models or sources!
-```
