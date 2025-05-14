@@ -13,7 +13,7 @@ The workflow includes **data preprocessing**, **exploratory data analysis (EDA)*
 
 ```
 
-mlpr-project/
+reefcast/
 │
 ├── data\_analysis/
 │   ├── eda\_final\_dataset.ipynb
