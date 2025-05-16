@@ -21,6 +21,7 @@ reefcast/
 │
 ├── model/
 │   ├── lstm.ipynb
+|   └── lstm2.ipynb
 │   └── other\_models/
 │       ├── randomforest.ipynb
 │       ├── xgboost.ipynb
